@@ -28,7 +28,7 @@
           {
             "name": "Kyoto, Japan",
             "imageUrl": "enter_your_image_for_kyoto.jpg",
-            "description": "Known for its historic temples, gardens, and traditional tea houses."
+            "description": "Known for its historic temples, gardens, and traditional tea houses in the country."
           }
         ]
       },
@@ -44,7 +44,7 @@
           {
             "name": "São Paulo, Brazil",
             "imageUrl": "enter_your_image_for_sao-paulo.jpg",
-            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+            "description": "The financial hub in the country with diverse culture, arts, and a vibrant nightlife."
           }
         ]
       }
@@ -54,7 +54,7 @@
         "id": 1,
         "name": "Angkor Wat, Cambodia",
         "imageUrl": "enter_your_image_for_angkor-wat.jpg",
-        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+        "description": "A UNESCO World Heritage site and the largest religious monument and temple in the world."
       },
       {
         "id": 2,
